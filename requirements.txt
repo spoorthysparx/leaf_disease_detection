@@ -1,0 +1,3 @@
+fastai
+sklearn==0.0
+streamlit==0.88.0
